@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1539492231 source:/home/andrzejmatuszczyk/Programowanie/2018.10.14/atm_core_gry_armaty4/src/GameEntity.cpp
+	"GameEntity.h"
+	<SFML/Graphics.hpp>
+	<cmath>
+
+1539492102 /home/andrzejmatuszczyk/Programowanie/2018.10.14/atm_core_gry_armaty4/include/GameEntity.h
+	<SFML/Graphics.hpp>
+
+1539492255 source:/home/andrzejmatuszczyk/Programowanie/2018.10.14/atm_core_gry_armaty4/main.cpp
+	<SFML/Graphics.hpp>
+	<GameEntity.h>
+	<cmath>
+	<iostream>
+
